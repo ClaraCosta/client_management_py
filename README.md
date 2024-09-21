@@ -79,10 +79,10 @@ python App/transacao.py
 ```
 <br>
 <h3>Exemplo de uso</h3>
-<b>Consultar um cliente:</b>
-Ao executar o script de consulta, você será solicitado a inserir o ID do cliente. Se o cliente estiver no banco de dados, as informações serão exibidas, caso contrário, será solicitado um novo ID.
 
-<b>Excluir um cliente:</b>
+- <b>Consultar um cliente:</b> Ao executar o script de consulta, você será solicitado a inserir o ID do cliente. Se o cliente estiver no banco de dados, as informações serão exibidas, caso contrário, será solicitado um novo ID.
+
+- <b>Excluir um cliente:</b>
 Para excluir clientes, você pode usar o script transacao.py, passando os IDs dos clientes que deseja remover do banco de dados.
 
 <br>
