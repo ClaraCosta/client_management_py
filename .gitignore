@@ -1,0 +1,16 @@
+.venv/
+env/
+ENV/
+venv/
+.Venv/
+*.db
+Pipfile.lock
+poetry.lock
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.env
