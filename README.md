@@ -93,7 +93,7 @@ Para excluir clientes, você pode usar o script transacao.py, passando os IDs do
 <h1>Licença</h1>
 <b>Este projeto está licenciado sob a Licença MIT.</b>
 <br><br>
-<small>
+<p><small>
 MIT License
 
 Copyright (c) 2024 Maria Clara Costa
@@ -117,5 +117,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 </small>
-
+</p>
 ---
