@@ -63,5 +63,5 @@ def consultar_todos_registros (cursor):
 #clientes = consultar_todos_registros(cursor)
 #print(clientes)
 
-excluir_registro(conexao, cursor, 12)
+
 

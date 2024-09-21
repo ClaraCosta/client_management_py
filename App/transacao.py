@@ -11,10 +11,10 @@ cursor.row_factory = sqlite3.Row
 
 try:
     cursor.execute('INSERT INTO clientes (nome, email) VALUES (?, ?)', ('Teste 1', 'teste1@gmail.ccom'))
-    conexao.commit()
     cursor.execute('INSERT INTO clientes (id, nome, email) VALUES (?, ?)', ('3','Teste 1', 'teste1@gmail.ccom'))
     conexao.commit()
 
+#Impedindo criação de novo registro em caso de falha em um dos comandos
 except Exception as exc:
     print(f'Ops! um erro ocorreu! {exc}')
     conexao.rollback()
