@@ -84,9 +84,11 @@ Ao executar o script de consulta, você será solicitado a inserir o ID do clien
 
 <b>Excluir um cliente:</b>
 Para excluir clientes, você pode usar o script transacao.py, passando os IDs dos clientes que deseja remover do banco de dados.
+
 <br>
 <br>
 <br>
+
 ---
 <h1>Licença</h1>
 <b>Este projeto está licenciado sob a Licença MIT.</b>
